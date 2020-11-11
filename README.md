@@ -9,6 +9,6 @@
   * in  visual studio open the cloned folder 
   * in the terminal run the commmand " npm install"
   * once the required node_modules/dependencies/librarires are downloaded
-  * run the command " node index.js" to triger the execution point given in package.json file 
+  * run the command " node index.js" to triger the execution point given in package.json file  run the command " npm test"
   * you will successfully execute the code and get the desired results
 
